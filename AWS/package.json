@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "googleapis": "^88.2.0"
+  },
+  "name": "transferir-datos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Manuel Pereira",
+  "license": "ISC",
+  "description": ""
+}
